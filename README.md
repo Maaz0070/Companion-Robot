@@ -13,7 +13,7 @@
 #### PCB Assembly with LED sensors to detect the different beacons and display which sensors are active on the robot.
 <img width="656" alt="Screen Shot 2021-09-12 at 5 50 25 PM" src="https://user-images.githubusercontent.com/67044481/133009221-12b5e2fc-e7ea-4462-b95a-f22dc64a524e.png">
 
-###Video of Robot
+#### Video of robot
 https://user-images.githubusercontent.com/67044481/133011156-e079c0a8-df3f-4638-bac9-18b8d4c6794c.mp4
 
 
