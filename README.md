@@ -10,7 +10,7 @@
 
 
 #### PCB Assembly with LED sensors to detect the different beacons
-<img width="602" alt="Screen Shot 2021-09-12 at 5 43 30 PM" src="https://user-images.githubusercontent.com/67044481/133008776-6e67f008-6874-4257-9d31-611f51768992.png">
+<img width="661" alt="Screen Shot 2021-09-12 at 5 45 39 PM" src="https://user-images.githubusercontent.com/67044481/133008990-448b4376-feee-431c-8b2a-db10194e8e64.png">
   
 
 
